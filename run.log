@@ -1,0 +1,65 @@
+2026-07-04 19:06:10,140 - INFO - Job Started
+2026-07-04 19:06:10,143 - INFO - Config Loaded | seed=42 | window=5 | version=v1
+2026-07-04 19:06:10,143 - INFO - Loading dataset
+2026-07-04 19:06:10,165 - ERROR - Job failed: Input file not found.
+2026-07-04 19:46:22,594 - INFO - Job Started
+2026-07-04 19:46:22,595 - INFO - Config Loaded | seed=42 | window=5 | version=v1
+2026-07-04 19:46:22,595 - INFO - Loading dataset
+2026-07-04 19:46:22,611 - ERROR - Job failed: Invalid CSV format: Length mismatch: Expected axis has 9 elements, new values have 7 elements
+2026-07-04 19:46:39,930 - INFO - Job Started
+2026-07-04 19:46:39,931 - INFO - Config Loaded | seed=42 | window=5 | version=v1
+2026-07-04 19:46:39,931 - INFO - Loading dataset
+2026-07-04 19:46:39,933 - ERROR - Job failed: Input file not found.
+2026-07-04 19:47:02,916 - INFO - Job Started
+2026-07-04 19:47:02,916 - INFO - Config Loaded | seed=42 | window=5 | version=v1
+2026-07-04 19:47:02,916 - INFO - Loading dataset
+2026-07-04 19:47:02,930 - ERROR - Job failed: Invalid CSV format: Length mismatch: Expected axis has 9 elements, new values have 7 elements
+2026-07-04 20:25:32,438 - INFO - Job Started
+2026-07-04 20:25:32,439 - INFO - Config Loaded | seed=42 | window=5 | version=v1
+2026-07-04 20:25:32,439 - INFO - Loading dataset
+2026-07-04 20:25:32,468 - INFO - Rows loaded: 10000
+2026-07-04 20:25:32,468 - INFO - Dataset validation completed
+2026-07-04 20:25:32,468 - INFO - Computing rolling mean
+2026-07-04 20:25:32,470 - INFO - Generating trading signals
+2026-07-04 20:25:32,471 - INFO - Rolling mean computed
+2026-07-04 20:25:32,471 - INFO - Signal generated
+2026-07-04 20:25:32,471 - INFO - Signal rate: 0.4989
+2026-07-04 20:25:32,471 - INFO - Metrics written
+2026-07-04 20:25:32,471 - INFO - Job completed successfully
+2026-07-04 21:41:15,481 - INFO - Job Started
+2026-07-04 21:41:15,483 - INFO - Config Loaded | seed=42 | window=5 | version=v1
+2026-07-04 21:41:15,483 - INFO - Loading dataset
+2026-07-04 21:41:15,511 - ERROR - Job failed: Invalid CSV format: Length mismatch: Expected axis has 9 elements, new values have 7 elements
+2026-07-04 21:42:06,729 - INFO - Job Started
+2026-07-04 21:42:06,730 - INFO - Config Loaded | seed=42 | window=5 | version=v1
+2026-07-04 21:42:06,730 - INFO - Loading dataset
+2026-07-04 21:42:06,750 - ERROR - Job failed: Invalid CSV format: Length mismatch: Expected axis has 9 elements, new values have 7 elements
+2026-07-04 21:51:02,712 - INFO - Job Started
+2026-07-04 21:51:02,713 - INFO - Config Loaded | seed=42 | window=5 | version=v1
+2026-07-04 21:51:02,713 - INFO - Loading dataset
+2026-07-04 21:51:02,748 - INFO - Rows loaded: 10000
+2026-07-04 21:51:02,749 - INFO - Dataset validation completed
+2026-07-04 21:51:02,749 - INFO - Computing rolling mean
+2026-07-04 21:51:02,752 - INFO - Generating trading signals
+2026-07-04 21:51:02,753 - INFO - Rolling mean computed
+2026-07-04 21:51:02,753 - INFO - Signal generated
+2026-07-04 21:51:02,753 - INFO - Signal rate: 0.4989
+2026-07-04 21:51:02,754 - INFO - Metrics written
+2026-07-04 21:51:02,755 - INFO - Job completed successfully
+2026-07-04 21:51:21,324 - INFO - Job Started
+2026-07-04 21:51:21,325 - INFO - Config Loaded | seed=42 | window=5 | version=v1
+2026-07-04 21:51:21,325 - INFO - Loading dataset
+2026-07-04 21:51:21,353 - INFO - Rows loaded: 10000
+2026-07-04 21:51:21,353 - INFO - Dataset validation completed
+2026-07-04 21:51:21,353 - INFO - Computing rolling mean
+2026-07-04 21:51:21,355 - INFO - Generating trading signals
+2026-07-04 21:51:21,355 - INFO - Rolling mean computed
+2026-07-04 21:51:21,355 - INFO - Signal generated
+2026-07-04 21:51:21,355 - INFO - Signal rate: 0.4989
+2026-07-04 21:51:21,356 - INFO - Metrics written
+2026-07-04 21:51:21,356 - INFO - Job completed successfully
+2026-07-04 23:23:09,968 - INFO - Starting the job
+2026-07-04 23:23:09,973 - INFO - Config loaded for this run
+2026-07-04 23:23:10,046 - INFO - Loaded 10000 rows from the dataset
+2026-07-04 23:23:10,047 - INFO - Dataset checks passed
+2026-07-04 23:23:10,059 - INFO - Finished successfully
