@@ -37,6 +37,3 @@ docker run --rm mlops-task
 }
 ```
 =======
-# Rerir
-AI-powered Relationship Intelligence CRM that transforms meetings, conversations, and customer interactions into actionable business intelligence.
->>>>>>> 5c484dbaf463c7060754961b821fc3ab18661dbc
